@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+http://www.google.com/ping?sitemap=https://dmalberto.github.io/pollianapertence/sitemap.xml
