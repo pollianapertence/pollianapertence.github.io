@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//dmalberto.github.io/pollianapertence/wp-content/plugins/wordpress-seo-premium/css/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>https://dmalberto.github.io/pollianapertence/</loc>
+		<loc>https://pollianapertence.github.io/</loc>
 	</url>
 	<url>
-		<loc>https://dmalberto.github.io/pollianapertence/contato/</loc>
+		<loc>https://pollianapertence.github.io/contato/</loc>
 		<lastmod>2019-07-05T18:27:35-03:00</lastmod>
 	</url>
 	<url>
-		<loc>https://dmalberto.github.io/pollianapertence/portfolio-2/</loc>
+		<loc>https://pollianapertence.github.io/portfolio-2/</loc>
 		<lastmod>2020-01-29T11:57:42-04:00</lastmod>
 	</url>
 </urlset>

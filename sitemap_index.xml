@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//dmalberto.github.io/pollianapertence/wp-content/plugins/wordpress-seo-premium/css/main-sitemap.xsl"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<sitemap>
-		<loc>https://dmalberto.github.io/pollianapertence/post-sitemap.xml</loc>
+		<loc>https://pollianapertence.github.io/post-sitemap.xml</loc>
 		<lastmod>2018-12-13T17:21:58-04:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://dmalberto.github.io/pollianapertence/page-sitemap.xml</loc>
+		<loc>https://pollianapertence.github.io/page-sitemap.xml</loc>
 		<lastmod>2020-06-05T09:50:13-03:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://dmalberto.github.io/pollianapertence/jetpack-portfolio-sitemap.xml</loc>
+		<loc>https://pollianapertence.github.io/jetpack-portfolio-sitemap.xml</loc>
 	</sitemap>
 	<sitemap>
-		<loc>https://dmalberto.github.io/pollianapertence/jetpack-testimonial-sitemap.xml</loc>
+		<loc>https://pollianapertence.github.io/jetpack-testimonial-sitemap.xml</loc>
 	</sitemap>
 	<sitemap>
-		<loc>https://dmalberto.github.io/pollianapertence/portfolio-sitemap.xml</loc>
+		<loc>https://pollianapertence.github.io/portfolio-sitemap.xml</loc>
 	</sitemap>
 	<sitemap>
-		<loc>https://dmalberto.github.io/pollianapertence/category-sitemap.xml</loc>
+		<loc>https://pollianapertence.github.io/category-sitemap.xml</loc>
 		<lastmod>2018-12-13T17:21:58-04:00</lastmod>
 	</sitemap>
 <sitemap>
-<loc>https://dmalberto.github.io/pollianapertence/geo-sitemap.xml</loc>
+<loc>https://pollianapertence.github.io/geo-sitemap.xml</loc>
 <lastmod>2019-07-04T22:01:27+00:00</lastmod>
 </sitemap>
 </sitemapindex>
