@@ -1,13 +1,13 @@
 .rwmb-field {margin: 10px 0;}
 .rwmb-label, .rwmb-input {display: inline-block;vertical-align: top;}
 .rwmb-label {width: 24%;}
-.rwmb-label.required > span {color: #c00;font-weight: bold;}
+.rwmb-label.required>span {color: #c00;font-weight: 700;}
 .rwmb-input {width: 100%;}
-.rwmb-label ~ .rwmb-input {width: 75%;}
+.rwmb-label~.rwmb-input {width: 75%;}
 .rwmb-input h4 {margin: 0;}
 .rwmb-textarea {resize: vertical;}
 .rwmb-clone {min-height: 24px;margin-bottom: 5px;position: relative;}
-.rwmb-clone > input[type="radio"], .rwmb-clone > input[type="checkbox"] {margin: 6px 0 0 4px;}
+.rwmb-clone>input[type=radio], .rwmb-clone>input[type=checkbox] {margin: 6px 0 0 4px;}
 .rwmb-button {float: right;}
 .rwmb-button.remove-clone {position: absolute;top: 0;right: 0;}
 #ui-datepicker-div {display: none;}
